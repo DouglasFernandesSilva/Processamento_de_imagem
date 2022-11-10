@@ -29,6 +29,6 @@ pip install image_processing
 
 Douglas Fernandes da Silva
 
-License
+## License
 
-## MIT
+[MIT](https://choosealicense.com/licenses/mit/)
